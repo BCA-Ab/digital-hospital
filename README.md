@@ -33,7 +33,7 @@ This digital hospital website is designed to facilitate the tracing of patients'
 
 🌐 Demo Site
 
-- The demo site is live at: [(link unavailable)](https://bca-ab.github.io/digital-hospital/)
+- The demo site is live at:(https://bca-ab.github.io/digital-hospital/)
 
 ✍ Author
 
