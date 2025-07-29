@@ -1,8 +1,8 @@
-📚 Alice Chikezie Digital Hospital
+#📚 Alice Chikezie Digital Hospital
 
 This is a simple website, representing the official web presence of Alice Chikezie Memorial Medical Centre Foundation. The website is built with HTML and hosted on GitHub.
 
-👥 Target Users
+#👥 Target Users
 
 - Health information officers
 - Nurses (if needed)
